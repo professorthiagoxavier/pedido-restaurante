@@ -1,0 +1,68 @@
+# Arquivos de compilação #
+bin/
+obj/
+
+# Arquivos de dependências #
+.vs/
+*.suo
+*.user
+*.bak
+*.log
+*.vspscc
+*.vssscc
+*.pidb
+
+# Pacotes de NuGet #
+packages/
+
+# Arquivos de compilação gerados pelo Visual Studio #
+*.cache
+*.pdb
+*.dll
+*.exe
+
+# Arquivos temporários #
+*.tmp
+*.DS_Store
+
+# Logs e saída #
+*.log
+*.swp
+*.sln.docstates
+
+# Arquivos de usuário #
+*.user
+*.userosscache
+
+# Arquivos de compilador #
+*.log
+*.jfm
+*.pdb
+*.pgc
+*.pgd
+*.pgf
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+
+# Pasta de saída do Visual Studio #
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.sln.docstates
